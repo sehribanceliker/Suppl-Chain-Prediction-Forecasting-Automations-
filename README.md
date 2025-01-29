@@ -1,9 +1,9 @@
 Project Steps:
 
-*Data Understanding:
+**Data Understanding:
 Load and explore the dataset, identifying its structure, features, and data types.
 
-*Data Cleaning & Preprocessing:
+**Data Cleaning & Preprocessing:
 Handle missing values, outliers, duplicates, and perform necessary data transformations like normalization/standardization.
 
 *Data Merging:
